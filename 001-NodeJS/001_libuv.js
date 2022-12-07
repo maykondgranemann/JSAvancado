@@ -1,3 +1,5 @@
+// Teste de execução assincrona para exemplificar o uso de event even
+
 function c(){
     console.log('C');
     return;
